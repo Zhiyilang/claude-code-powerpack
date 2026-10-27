@@ -1,0 +1,4 @@
+# Replace YOUR_PAYPAL_ID with your real PayPal.me ID after you register a
+# PayPal China personal-seller account (paypal.cn, ~30 min, no business license).
+github: [Zhiyilang]
+custom: ["https://paypal.me/YOUR_PAYPAL_ID"]
